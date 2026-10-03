@@ -9,7 +9,7 @@ This repository is updated as I work through more material.
 | Folder | Course | Topics |
 |---|---|---|
 | [Basics of Quantum Information](Basics_of_Quantum_Information/) | [Basics of Quantum Information](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information) | Single and multiple systems, entanglement, teleportation, superdense coding, CHSH game |
-| [Fundamentals of Quantum Algorithms](Fundamentals_of_Quantum_Algorithms/) | [Fundamentals of Quantum Algorithms](https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/) | Deutsch's algorithm |
+| [Fundamentals of Quantum Algorithms](Fundamentals_of_Quantum_Algorithms/) | [Fundamentals of Quantum Algorithms](https://quantum.cloud.ibm.com/learning/en/courses/fundamentals-of-quantum-algorithms/) | Deutsch's algorithm, Deutsch–Jozsa algorithm, Bernstein–Vazirani problem |
 
 Each folder has its own README describing the notebooks inside it.
 
@@ -41,5 +41,6 @@ Qiskit/
 │   └── entanglement.ipynb
 └── Fundamentals_of_Quantum_Algorithms/
     ├── README.md
-    └── deutsch's_algorithm.ipynb
+    ├── deutsch's_algorithm.ipynb
+    └── deutsch-jozsa_algorithm.ipynb
 ```
